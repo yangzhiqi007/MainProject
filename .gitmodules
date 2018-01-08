@@ -1,0 +1,3 @@
+[submodule "SubProject"]
+	path = SubProject
+	url = https://github.com/yangzhiqi007/SubProject.git
